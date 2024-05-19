@@ -9,7 +9,9 @@ show_excerpts: true # set to true to show excerpts on the homepage
 
 timezeon: Asia/Seoul
 
-baseurl: /
+repository: gamjeong0724/gamjeong0724.github.io
+
+baseurl: ""
 
 
 # Minima date format
