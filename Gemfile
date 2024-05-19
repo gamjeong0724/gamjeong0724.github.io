@@ -1,4 +1,8 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-gemspec
+
+gem "jekyll"
+gem "github-pages", group: :jekyll_plugins
+gem "plainwhite"
+gem "webrick"  # 추가된 부분
