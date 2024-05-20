@@ -7,9 +7,21 @@
       "sub-titile-lower" : "",
       "categories" : "MarkdownTest",
       "tags"     : "",
-      "url"      : "/markdown/test/2024/05/20/first.html",
-      "date"     : "2024-05-20 09:00:00 +0900",
+      "url"      : "/markdown/test/2024/05/21/first.html",
+      "date"     : "2024-05-21 00:00:00 +0900",
       "content"     : "첫 포스팅은 테스트를 위한 것입니다."
+    } ,
+  
+    {
+      "title"    : "Android Studio basic diary #00",
+      "title-lower"    : "android studio basic diary #00",
+      "sub-titile" : "",
+      "sub-titile-lower" : "",
+      "categories" : "JavaAndroid&nbsp;Studiobasicdiary",
+      "tags"     : "",
+      "url"      : "/java/android&nbsp;studio/basic/diary/2024/05/21/Android_Studio.html",
+      "date"     : "2024-05-21 00:00:00 +0900",
+      "content"     : "안드로이드 스튜디오 공부 일기장스마트폰의 역사(대한민국)도입3G 공통 주파수를 이용하는 등 통신 규격이 유사해 보급이 원활한 인터넷이 되는 폰. 1997년 초부터 언론에서 스마트폰 보도를 본격적으로 하기 시작했습니다.첫 스마트폰 보도(1997년 기사)보급2010년 2월에는 모토도라의 모토로이, 4월에는 갤럭시A, 7월에는 삼성 갤럭시S가 SK텔레콤을 ..."
     } 
   
 ]
